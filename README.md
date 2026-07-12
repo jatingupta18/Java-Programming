@@ -1,9 +1,21 @@
-Data Structures and Algorithms in Java
+# Data Structures and Algorithms 💻
 
-This repository contains my Java solutions and practice programs while learning Data Structures and Algorithms.
+This repository contains my Java implementations of Data Structures and Algorithms, along with practice problems and notes as I continue improving my problem-solving skills.
 
-🚧 Work in Progress — I will keep updating this repository as I learn new topics and solve more problems.
+## 📚 Topics
+- Arrays
+- Strings
+- Searching
+- Sorting
+- Linked List
+- Stack
+- Queue
+- Trees
+- Graphs
+- Dynamic Programming
+- etc
 
-Language: Java
+🚀 This repository is regularly updated as I continue learning Data Structures and Algorithms.
 
-IDE: IntelliJ IDEA
+**Language:** Java  
+**IDE:** IntelliJ IDEA
